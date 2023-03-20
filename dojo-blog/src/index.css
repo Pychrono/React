@@ -57,3 +57,9 @@
 .blog-preview a{
   text-decoration: none;
 }
+
+blog{
+  text-align: center;
+  text-decoration: none;
+  border-radius: 2px solid blue;
+}
