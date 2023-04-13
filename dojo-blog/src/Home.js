@@ -12,7 +12,7 @@ const Home = () => {
         { isPending && <div>Loading...</div> }
         { blogs && <BlogList blogs={blogs} title=" All Blogs!" /> }
         <div className="blog">
-          This is my blog!!!, what are u doing here imposter!!!, I'll call the cops
+          This is my blog!!!, God dammittttt
         </div>
       </div>
     );
