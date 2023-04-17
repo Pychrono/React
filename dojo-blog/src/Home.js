@@ -13,6 +13,7 @@ const Home = () => {
         { blogs && <BlogList blogs={blogs} title=" All Blogs below!" /> }
         <div className="blog">
           This is my blog!!!, God dammittttt
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum exercitationem rem odio quisquam officiis fuga veniam, distinctio quod! Sed saepe dolor facilis maxime aliquid ut illum, molestiae voluptates voluptatem veritatis.
         </div>
       </div>
     );
